@@ -1,0 +1,6 @@
+/.build
+/chroot*
+/binary
+/live-image*
+/cache
+build.log
